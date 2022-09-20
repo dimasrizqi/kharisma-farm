@@ -170,7 +170,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `email_verified_at`, `password`, `remember_token`, `created_at`, `updated_at`) VALUES
-(2, 'ijal', 'zal@mail.com', NULL, '$2y$10$mVaKXJLjdf/GrmE9O8ULRu9tpu/e2J3NVkOhi3UhB5XO2AiIFQmg2', NULL, '2020-11-30 15:07:57', '2020-11-30 15:07:57');
+(2, 'ijal', 'admin@mail.com', NULL, '$2y$10$mVaKXJLjdf/GrmE9O8ULRu9tpu/e2J3NVkOhi3UhB5XO2AiIFQmg2', NULL, '2020-11-30 15:07:57', '2020-11-30 15:07:57');
 
 --
 -- Indexes for dumped tables

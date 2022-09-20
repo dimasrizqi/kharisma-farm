@@ -26,6 +26,6 @@
 
 <strong>Akun Terbuat :</strong>
 <ul
-    <li>email: zal@mail.com</li>
+    <li>email: admin@mail.com</li>
     <li>password: 12344321</li>
 </ul>
