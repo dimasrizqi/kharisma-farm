@@ -35,10 +35,11 @@
 
             <!-- Sidebar - Brand -->
             <a class="sidebar-brand d-flex align-items-center justify-content-center" href="/">
-                <div class="sidebar-brand-icon rotate-n-15">
-                    <i class="fas fa-laugh-wink"></i>
+                <div class="sidebar-brand-icon ">
+                    <!-- <i class="fas fa-laugh-wink"></i> -->
+                    <img src=" {{ asset('/img/logo.jpeg')}} " width="50" alt="">
                 </div>
-                <div class="sidebar-brand-text mx-3">SB Admin <sup>2</sup></div>
+                <div class="sidebar-brand-text mx-3">Kharisma Farm</div>
             </a>
 
             <!-- Divider -->
