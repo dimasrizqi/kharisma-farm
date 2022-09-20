@@ -1,8 +1,11 @@
 /node_modules
 /public/hot
+/public/error_log
 /public/storage
+/public/files
 /storage/*.key
 /vendor
+composer.lock
 .env
 .env.backup
 .phpunit.result.cache
